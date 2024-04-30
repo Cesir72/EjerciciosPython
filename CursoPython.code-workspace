@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on",
+		"javascript.format.insertSpaceAfterConstructor": true,
+		"typescript.suggest.completeFunctionCalls": true,
+		"remote.WSL.debug": true
+	}
+}
